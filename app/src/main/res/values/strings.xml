@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTactoe</string>
+    <string name="btn_reset">Restart</string>
+    <string name="text_welcome">Welcome in TicTacToe</string>
+
+    <string name="next_player_text">Next player is: %1$s</string>
+    <string name="winner_text">%1$s has won!</string>
+    <string name="x_winning_times">X has won %1$d times</string>
+    <string name="o_winning_times">O has won %1$d times</string>
+    <string name="text_if_draw">It\'s a draw! Click restart to continue!</string>
+</resources>
